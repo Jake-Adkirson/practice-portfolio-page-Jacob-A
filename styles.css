@@ -1,9 +1,9 @@
-body {
+ body {
     text-align: center;
     background-color: #28454d;
     color: #f5f6f7;
     font-family: Tahoma;
-    font-size: 16px;
+    font-size: 30px;
 }
 
 h1 {  
@@ -28,10 +28,15 @@ ul {
 }
 
 #tagline {
-    font-size: 18px;
+    font-size: 28px;
 }
 
 footer {
     font-size: 10px;
+    text-decoration: double;
+}
+
+#aboutStatement {
+    font-size: 20px;
 }
 
